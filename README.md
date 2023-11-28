@@ -5,4 +5,4 @@
   
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=synthematik&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-![Codewars](https://github.r2v.ch/codewars?user=synthematik&hide_clan=true)
+![Codewars](https://github.r2v.ch/codewars?user=synthematik&theme=gradient)
