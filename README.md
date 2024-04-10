@@ -1,7 +1,6 @@
 ### Hello
-- I am from: Rostov-on-Don State, Russia
+
 - Currently learning: Python, FastAPI, Backend, Ruby on Rails, Ruby
-- Connect with me on [telegram](https://t.me/mchtcl)
 
 ![Codewars](https://github.r2v.ch/codewars?user=synthematik&theme=gradient)
 
