@@ -1,6 +1,6 @@
 ### Hello
 
-- Currently learning: Python, FastAPI, Backend, Ruby on Rails, Ruby
+- Currently learning: Python, FastAPI, Backend, Ruby on Rails
 
 ![Codewars](https://github.r2v.ch/codewars?user=synthematik&theme=gradient)
 
